@@ -7,7 +7,7 @@ NeoForge) e a biblioteca do Modrinth.
 
 ## Baixar
 
-Pelo site: **https://tessera.discloud.app**
+Pelo site: **https://tessera.discloud.dev**
 
 Ou direto na [última versão](https://github.com/JamalOruim/tessera-launcher/releases/latest):
 
